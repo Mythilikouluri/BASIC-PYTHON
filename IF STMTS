@@ -1,0 +1,9 @@
+if 4:
+    print("hello")
+    if 3:
+        print("hi")
+
+if 0:
+    print("hello")
+    if 3:
+        print("hi")
